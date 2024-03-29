@@ -1,0 +1,192 @@
+/* h1{
+    color: orange;
+}
+body{
+    background-color: #ffff00;
+}
+button
+{
+    color: azure;
+    background-color:rgb(220, 0,0);
+}
+#heading1{
+    color: blue;
+}
+.myclass{
+    color: chocolate;
+}
+#box{
+    background-color: blue;
+}
+.heading{
+    color: red;
+/* } */
+/* p{
+    text-align: right;
+}
+h1{
+    text-align: center;
+    /* text-decoration: underline; */
+    /* text-decoration: red wavy line-through;
+}
+a
+{
+    text-decoration: none;
+} */ 
+/* #he1{
+    font-weight: normal;
+}
+#he2{
+    font-weight: lighter;
+}
+#he3{
+    font-weight: bold;
+}
+#he4
+{
+    font-weight: bolder;
+} */
+/* #one{
+    font-family:cursive;
+} */
+/* #one
+{
+    font-size: 25px;
+    line-height: 40px;
+    text-transform: capitalize;
+} */
+/* #he1{
+    text-align: center;
+    text-transform: capitalize;
+
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+#outer
+{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+} */
+/* h1
+{
+    width: 200px;
+    background-color: pink;
+}
+/* div{/*
+    height: 100px;
+    /* width: 100px; */
+   /* background-color: pink;
+    /* border-width: 2px;
+    border-style: solid; */
+    /*border: 2px solid orange;
+    /* border-radius: 10px; */
+    /* border-radius: 50%; */
+    /* padding-left:20px ;
+    padding-right:20px ; */
+   /* padding: 10px 15px 20px 25px;
+    /* margin-top: 50px;
+     */
+    /*margin: 10px 20px 30px 40px;
+} */ 
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+} */
+
+
+/* #box
+{
+    height:400px;
+    width: 150px;
+    background-color: black;
+    padding-top: 25px;
+}
+#redLight{
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+    
+    margin: 25px;
+}
+#yellowLight{
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: yellow;
+    
+    margin: 25px;
+}
+#greenLight{
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color:green;
+    
+    margin: 25px;
+} */
+/* div{
+
+    background-color:rgba(255,0,0,0.5);
+    /* display: inline-block; */
+    /* visibility: hidden; 
+} */
+/* #box1{
+    height: 200px;
+    width: 200px;
+    background-color: pink;
+    font-size:10px;
+}
+#box2{
+    
+  
+    background-color: red;
+    margin-left: 10%;
+    font-size:2em;
+    width: 5em;
+    height: 50vh;
+} */
+body{
+    background-image: url("luffyOnePiece_Image2.jpg");
+    background-size: cover;
+}
+div{
+    height: 100px;
+    width: 100px;
+    border :2px solid ;
+    background-color: purple;
+    display: inline-block;
+}
+#box1{
+    /* position: static;s
+    top: 20px; */
+    /* height: 500px;
+    width: 500px; */
+    background-image: url("luffyOnePiece_image.jpg");
+    background-size: cover;
+
+    
+}
+#box2{
+    background-color: blue;
+    /* position: relative;
+    top: 20px;
+    left: 20px; */
+    
+}
+#box3{
+    background-color: yellow;
+    /* position: sticky;
+    top :0; */
+}
+#box4{
+    /* position: fixed;
+    right: 20px;
+    bottom: 20px; */
+    /* left:20px; */
+}
